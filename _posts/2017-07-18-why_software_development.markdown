@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why software development?"
-date:   2017-07-18 17:01:59 +0000
+date:   2017-07-18 13:01:59 -0400
 ---
 
 
